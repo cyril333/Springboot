@@ -1,2 +1,2 @@
 # Springboot
-First Springboot App | CSIT321
+First Springboot App - CSIT321
